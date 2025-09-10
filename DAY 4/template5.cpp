@@ -5,7 +5,7 @@ template <typename T>
 
 T squares(T x)
 {
-    T result = x + 10;
+    T result = x * x;
     return result;
 }
 
