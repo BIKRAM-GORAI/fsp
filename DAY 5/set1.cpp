@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    set<int> s;
+    
     set<string> fruits;
     fruits.insert("apple");
     fruits.insert("orange");
