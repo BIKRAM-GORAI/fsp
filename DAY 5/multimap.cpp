@@ -21,7 +21,7 @@ int main()
         cout << "\n  Students with ID 101:  " << endl;
     }
 
-    for(auto val=range.first;val!=range.second;val++)
+    for(auto val=range.first;val!=range.second;val++) //acccesiing with the auto variable
     {
         cout<<"ID: "<<val->first<<"   NAME:  "<<val->second<<endl;
 
