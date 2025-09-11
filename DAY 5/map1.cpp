@@ -8,6 +8,7 @@ int main()
     ages["Amit"]=23;
     ages["Ayush"]=25;
     ages["Baidya"]=35;
+    ages["Baidya"]=40;
     ages["Bikram"]=33;
     ages.insert({"gourab",34});
 
